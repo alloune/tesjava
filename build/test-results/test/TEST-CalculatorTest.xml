@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="CalculatorTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2022-12-19T10:24:25" hostname="PYTHON-15" time="0.03">
+  <properties/>
+  <testcase name="testDividedByZeroCalculator()" classname="CalculatorTest" time="0.02"/>
+  <testcase name="testMinusFromCalculator()" classname="CalculatorTest" time="0.001"/>
+  <testcase name="testMultipliedCalculator()" classname="CalculatorTest" time="0.0"/>
+  <testcase name="testDividedCalculator()" classname="CalculatorTest" time="0.004"/>
+  <testcase name="testAddFromCalculator()" classname="CalculatorTest" time="0.0"/>
+  <system-out><![CDATA[2.0
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
